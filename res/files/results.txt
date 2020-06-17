@@ -1,0 +1,10 @@
+moj_wynik SCORE: 88 %
+ja SCORE: 66 %
+moj_wynik SCORE: 66 %
+łuki SCORE: 12 %
+StonkaBiedronka SCORE: 100 %
+czarek SCORE: 100 %
+Filip SCORE: 0 %
+Gosia SCORE: 0 %
+Wojtek SCORE: 0 %
+
